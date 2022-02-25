@@ -30,7 +30,7 @@
     "@storybook/addon-actions": "^6.3.12",
     "@storybook/addon-links": "^6.3.12",
     "@storybook/addons": "^6.3.12",
-    "@storybook/react": "^6.3.12",
+    "@storybook/react": "^6.4.19",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
     "core-js": "^3.19.1"
