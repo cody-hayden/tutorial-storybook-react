@@ -33,6 +33,8 @@
     "@storybook/react": "^6.4.19",
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
-    "core-js": "^3.19.1"
+    "core-js": "^3.19.1",
+    "eslint": "^7.11.0",
+    "eslint-config-tc": "^5.2.0"
   }
 }
