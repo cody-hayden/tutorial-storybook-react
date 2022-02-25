@@ -19,8 +19,6 @@
   "devDependencies": {
     "@applitools/eyes-storybook": "3.27.4",
     "@storybook/react": "6.4.19",
-    "@storybook/addon-actions": "6.4.19",
-    "@storybook/addon-links": "6.4.19",
     "react-test-renderer": "16.14.0",
     "require-context.macro": "1.2.2",
     "eslint": "7.32.0",
