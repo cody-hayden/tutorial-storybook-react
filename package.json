@@ -12,7 +12,6 @@
     "react-test-renderer": "16.14.0",
     "require-context.macro": "1.2.2",
     "eslint": "7.32.0",
-    "eslint-config-tc": "5.2.0",
     "eslint-formatter-pretty": "2.1.1",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-jsx-a11y": "6.5.1",
